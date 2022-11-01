@@ -24,7 +24,7 @@ require (
 	github.com/json-iterator/go v1.1.11
 	github.com/klauspost/compress v1.13.1
 	github.com/lucas-clemente/quic-go v0.21.1
-	github.com/megaease/easemesh-api v1.3.2
+	github.com/megaease/easemesh-api v1.4.4
 	github.com/megaease/grace v1.0.0
 	github.com/mitchellh/mapstructure v1.4.1
 	github.com/nacos-group/nacos-sdk-go v1.0.8
@@ -49,8 +49,8 @@ require (
 	go.etcd.io/etcd/client/v3 v3.5.0
 	go.etcd.io/etcd/server/v3 v3.5.0
 	go.uber.org/zap v1.19.0
-	golang.org/x/sync v0.0.0-20210220032951-036812b2e83c
-	golang.org/x/sys v0.0.0-20210616094352-59db8d763f22
+	golang.org/x/sync v0.0.0-20220722155255-886fb9371eb4
+	golang.org/x/sys v0.0.0-20220908150016-7ac13a9a928d
 	gopkg.in/yaml.v2 v2.4.0
 	k8s.io/api v0.21.4
 	k8s.io/apimachinery v0.21.4
